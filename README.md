@@ -23,10 +23,3 @@ This project demonstrates a secure and auditable printing system built for Windo
 3. If print count > 2, alert is sent via ntfy.
 4. Users can't terminate or bypass the script (via GPO).
 
-## 📷 Visual Overview
-![Diagram](A_digital_infographic_features_a_smart_print_monit.png)
-
-## 📦 Installation
-1. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
